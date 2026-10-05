@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Store & Order Hub",
+  "description": "Modern commerce storefront and merchant console to add products, manage inventory, and process customer order requests seamlessly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
